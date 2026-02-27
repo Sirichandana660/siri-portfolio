@@ -9,6 +9,12 @@ const Projects = () => {
       link: "https://github.com/Sirichandana660/Sign-language-translator"
     },
     {
+      title: "Disease Prediction Using Symptoms-- ML based model",
+      description: "Machine Learning powered web application built with FastAPI that predicts diseases based on user symptoms using trained classification models.",
+      tech: ["FastAPI", "Scikit-learn", "Pandas", "NumPy", "Uvicorn"],
+      link: "https://github.com/Sirichandana660/Disease-Prediction--FAST-API"
+    },
+    {
       title: "Speech-to-Text Transcription",
       description: "End-to-end audio processing pipeline utilizing Whisper AI and fine-tuned speech models for high-accuracy transcription.",
       tech: ["Whisper API", "Python", "Librosa", "PyTorch"],
